@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/flink-cdc.iml" filepath="$PROJECT_DIR$/flink-cdc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-cdc-mysql/flink-cdc-mysql.iml" filepath="$PROJECT_DIR$/flink-cdc-mysql/flink-cdc-mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-cdc-oracle/flink-cdc-oracle.iml" filepath="$PROJECT_DIR$/flink-cdc-oracle/flink-cdc-oracle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-cdc-sqlserver/flink-cdc-sqlserver.iml" filepath="$PROJECT_DIR$/flink-cdc-sqlserver/flink-cdc-sqlserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-cdc-tools/flink-cdc-tools.iml" filepath="$PROJECT_DIR$/flink-cdc-tools/flink-cdc-tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-common/flink-common.iml" filepath="$PROJECT_DIR$/flink-common/flink-common.iml" />
+    </modules>
+  </component>
+</project>
